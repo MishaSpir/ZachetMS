@@ -10,8 +10,8 @@ void contrast2(std::vector<int>v){
     if (e > max) max = e;
  }
 
-std:: cout << "MINimum: " << min << std::endl;
-std:: cout << "MAXimum: " << max << std::endl;
+std:: cout << "MINimum2: " << min << std::endl;
+std:: cout << "MAXimum2: " << max << std::endl;
 
 
 }
